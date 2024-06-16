@@ -19,5 +19,8 @@ The project encompasses the entire data workflow, including data extraction, tra
 7. There exists a general positive correlation between market capital and quarterly sales. Companies with higher market capital tend to have higher quarterly sales.
 8. The regression analysis indicates a positive but not strictly linear relationship between market capital and quarterly sales. 
 
-#
- Thanks for using "Financial Analytics". If you have any questions or feedback, please feel free to contact me.
+## Contributing
+I welcome contributions to improve this dashboard. If you have suggestions or improvements, please create an issue or submit a pull request.
+
+## Contact
+For any questions or support, please contact me at [rupal95@outlook.com].
